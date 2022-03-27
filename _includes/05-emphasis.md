@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+This is **really** _fun_ to do and is informative!
+I Have learned the **Python** language.
+Thank you :heart:!
